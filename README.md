@@ -12,7 +12,7 @@ Kotlin
 👯 I really want to collaborate on open source projects.
 ✔ Ask me about anything, I'll be happy to help you, only if the ball is in my court!😉
 Outside of technology, I love 🖌️ painting and sketching, 🎵 listening to music, and 🌴 exploring nature outdoors.
-- 📫 Reach out to me at: <a href="klebertoledoamaro@gmail.com">klebertoledoamaro@gmail.com</a>
+//- 📫 Reach out to me at: <a href="klebertoledoamaro@gmail.com">klebertoledoamaro@gmail.com</a>//
 
 ## My Skills Include
 
