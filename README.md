@@ -3,15 +3,16 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a university student of Computer Engineering at Universidad de las Americas. Python and Java are the programming languages ​​I am good at. I love learning and building something new, productive, innovative and creative.
+I am a university student of Computer Engineering at Universidad de las Americas. Im learning Python and Java , i like it. I love learning and building something new, productive, innovative and creative.
 
 I am interested in web design, Android development and digital marketing.
 🌱 I am currently learning...
 Kotlin
- js
+Java
+Python
+
 👯 I really want to collaborate on open source projects.
-✔ Ask me about anything, I'll be happy to help you, only if the ball is in my court!😉
-Outside of technology, I love 🖌️ painting and sketching, 🎵 listening to music, and 🌴 exploring nature outdoors.
+
 
 ## My Skills Include
 
@@ -31,7 +32,7 @@ Outside of technology, I love 🖌️ painting and sketching, 🎵 listening to 
 <span>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<!<img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white">-->-->
+<img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white">
 
 
 
