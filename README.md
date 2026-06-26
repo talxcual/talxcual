@@ -13,49 +13,32 @@
   <img align="right" width="250px" alt="Coding" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
   <div align="left">
-
   <p>
     I am a <b>Computer Engineering student</b> at
     <b>Universidad de las Américas (UDLA)</b>, passionate about building
     solutions that connect software with the real world.
   </p>
-
   <p>
     My main interests are <b>Android Development</b>,
     <b>Backend Integration using Firebase</b>,
     <b>Internet of Things (IoT)</b>, and
     <b>Applied Artificial Intelligence</b>.
   </p>
-
   <p>
     I enjoy designing complete solutions that combine
     mobile applications, cloud services, embedded systems,
     and intelligent data processing.
   </p>
-
   <ul>
     <li>📱 Currently developing Android applications using <b>Kotlin</b>, <b>Android Studio</b> and <b>Firebase</b>.</li>
-
     <li>🌎 Building IoT projects using <b>ESP32</b>, environmental sensors and <b>MQTT</b> communication.</li>
-
     <li>🧠 Exploring <b>Artificial Intelligence</b>, neural networks and intelligent systems applied to real-world problems.</li>
-
     <li>🎮 Developing interactive experiences and game systems using <b>Unity</b> and <b>C#</b>.</li>
-
     <li>🌱 Currently learning <b>Software Architecture</b>, <b>Design Patterns</b> and advanced backend technologies.</li>
-
     <li>👯 Open to collaborate on <b>Android</b>, <b>IoT</b>, <b>Open Source</b> and <b>Software Engineering</b> projects.</li>
-
     <li>📫 Contact me: <b>klebertoledoamaro@gmail.com</b></li>
-
-    <li>💼 LinkedIn:
-      <a href="https://www.linkedin.com/in/kleber-toledo-amaro-51aa23313/">
-        <b>Visit my profile</b>
-      </a>
-    </li>
-
+    <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/kleber-toledo-amaro-51aa23313/"><b>Visit my profile</b></a></li>
   </ul>
-
   </div>
 </div>
 
