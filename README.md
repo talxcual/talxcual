@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-  <img align="right" width="250px" alt="Coding" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+  <img align="right" width="250px" alt="Coding" src="gatoguaton.gif" />
 
   <div align="left">
   <p>
